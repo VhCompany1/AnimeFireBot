@@ -19,7 +19,7 @@
       "twitch": "[link](https://twitch.tv)",
       "tag": "usuario comum",
       "ban": "false",
-      "xp": 9428,
+      "xp": 9611,
       "level": 0
     },
     {
@@ -63,8 +63,8 @@
       "twitch": "[link](https://twitch.tv)",
       "tag": "usuario comum",
       "ban": "false",
-      "xp": 111,
-      "level": 0
+      "xp": 191,
+      "level": 1
     },
     {
       "id": "443457989798658058",
@@ -81,12 +81,12 @@
       "id": "770839727225045063",
       "usario": "biazinha#0008",
       "icon": "https://www.construtoracesconetto.com.br/wp-content/uploads/2020/03/blank-profile-picture-973460_640.png",
-      "desc": "sabia que você pode mudar esta descriçao usar #desc?",
+      "desc": "Pãozinho",
       "twitch": "[link](https://twitch.tv)",
       "tag": "usuario comum",
       "ban": "false",
-      "xp": 110,
-      "level": 0
+      "xp": 182,
+      "level": 1
     },
     {
       "id": "416057043665813504",
@@ -118,8 +118,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 99,
-      "level": 0
+      "xp": 163,
+      "level": 1
     },
     {
       "id": "814637254885507103",
@@ -239,7 +239,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 99,
+      "xp": 109,
       "level": 0
     },
     {
@@ -294,7 +294,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 112,
+      "xp": 142,
       "level": 0
     },
     {
@@ -316,8 +316,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 126,
-      "level": 2
+      "xp": 230,
+      "level": 3
     },
     {
       "id": "776685506032435211",
@@ -360,7 +360,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 100,
+      "xp": 118,
       "level": 0
     },
     {
@@ -371,7 +371,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 136,
+      "xp": 146,
       "level": 2
     },
     {
@@ -404,7 +404,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 99,
+      "xp": 101,
       "level": 0
     },
     {
@@ -448,8 +448,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 136,
-      "level": 1
+      "xp": 212,
+      "level": 2
     },
     {
       "id": "816732116758953985",
@@ -481,8 +481,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 123,
-      "level": 0
+      "xp": 188,
+      "level": 1
     },
     {
       "id": "477246988300320769",
@@ -558,7 +558,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 161,
+      "xp": 232,
       "level": 3
     },
     {
@@ -569,8 +569,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 100,
-      "level": 0
+      "xp": 179,
+      "level": 1
     },
     {
       "id": "676177998873100301",
@@ -756,7 +756,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 99,
+      "xp": 124,
       "level": 0
     },
     {
@@ -778,8 +778,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 106,
-      "level": 0
+      "xp": 179,
+      "level": 1
     },
     {
       "id": "435228312214962204",
@@ -1108,7 +1108,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 108,
+      "xp": 122,
       "level": 2
     },
     {
@@ -1130,7 +1130,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 112,
+      "xp": 124,
       "level": 0
     },
     {
@@ -1372,7 +1372,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 101,
+      "xp": 103,
       "level": 0
     },
     {
@@ -1471,8 +1471,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 108,
-      "level": 0
+      "xp": 203,
+      "level": 1
     },
     {
       "id": "503257522887458834",
@@ -1482,7 +1482,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 109,
+      "xp": 142,
       "level": 0
     },
     {
@@ -1504,7 +1504,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 194,
+      "xp": 300,
       "level": 2
     },
     {
@@ -1603,8 +1603,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 150,
-      "level": 2
+      "xp": 284,
+      "level": 3
     },
     {
       "id": "739602495449595945",
@@ -1636,8 +1636,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 115,
-      "level": 0
+      "xp": 172,
+      "level": 1
     },
     {
       "id": "511666053752029206",
@@ -1669,7 +1669,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 120,
+      "xp": 128,
       "level": 2
     },
     {
@@ -1691,7 +1691,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 99,
+      "xp": 128,
       "level": 0
     },
     {
@@ -1713,7 +1713,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 111,
+      "xp": 113,
       "level": 1
     },
     {
@@ -1768,8 +1768,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 119,
-      "level": 0
+      "xp": 320,
+      "level": 1
     },
     {
       "id": "752684497857675385",
@@ -1955,7 +1955,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 99,
+      "xp": 109,
       "level": 0
     },
     {
@@ -2131,7 +2131,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 109,
+      "xp": 122,
       "level": 0
     },
     {
@@ -2318,7 +2318,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 100,
+      "xp": 102,
       "level": 0
     },
     {
@@ -2340,8 +2340,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 105,
-      "level": 0
+      "xp": 207,
+      "level": 1
     },
     {
       "id": "775372933307957250",
@@ -2538,7 +2538,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 99,
+      "xp": 108,
       "level": 0
     },
     {
@@ -2648,7 +2648,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 303,
+      "xp": 322,
       "level": 0
     },
     {
@@ -2824,7 +2824,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 17,
+      "xp": 27,
       "level": 0
     },
     {
@@ -3011,7 +3011,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 113,
+      "xp": 115,
       "level": 1
     },
     {
@@ -3022,7 +3022,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 204,
+      "xp": 343,
       "level": 2
     },
     {
@@ -3110,8 +3110,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 108,
-      "level": 0
+      "xp": 181,
+      "level": 1
     },
     {
       "id": "710975996865544335",
@@ -3264,7 +3264,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 102,
+      "xp": 145,
       "level": 0
     },
     {
@@ -3429,7 +3429,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 113,
+      "xp": 125,
       "level": 0
     },
     {
@@ -3572,7 +3572,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 126,
+      "xp": 137,
       "level": 0
     },
     {
@@ -3594,7 +3594,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 168,
+      "xp": 263,
       "level": 3
     },
     {
@@ -3638,8 +3638,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 100,
-      "level": 0
+      "xp": 386,
+      "level": 1
     },
     {
       "id": "682756451856285854",
@@ -3957,7 +3957,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 10,
+      "xp": 16,
       "level": 0
     },
     {
@@ -3979,7 +3979,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 59,
+      "xp": 71,
       "level": 0
     },
     {
@@ -4331,8 +4331,8 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 106,
-      "level": 1
+      "xp": 151,
+      "level": 2
     },
     {
       "id": "716807454616191066",
@@ -4617,7 +4617,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 99,
+      "xp": 111,
       "level": 0
     },
     {
@@ -4848,7 +4848,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 104,
+      "xp": 109,
       "level": 0
     },
     {
@@ -5409,7 +5409,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 12,
+      "xp": 14,
       "level": 0
     },
     {
@@ -5431,7 +5431,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 62,
+      "xp": 96,
       "level": 0
     },
     {
@@ -5508,7 +5508,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 25,
+      "xp": 60,
       "level": 0
     },
     {
@@ -5585,7 +5585,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 2,
+      "xp": 22,
       "level": 0
     },
     {
@@ -5750,7 +5750,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 46,
+      "xp": 100,
       "level": 0
     },
     {
@@ -5761,7 +5761,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 36,
+      "xp": 122,
       "level": 0
     },
     {
@@ -5871,7 +5871,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 15,
+      "xp": 51,
       "level": 0
     },
     {
@@ -5893,7 +5893,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 8,
+      "xp": 27,
       "level": 0
     },
     {
@@ -5904,7 +5904,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 2,
+      "xp": 37,
       "level": 0
     },
     {
@@ -5915,7 +5915,7 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 18,
+      "xp": 66,
       "level": 0
     },
     {
@@ -5959,8 +5959,74 @@
       "tag": "usuario comum",
       "desc": "Sabia que você pode alterar aqui usando #desc",
       "ban": "false",
-      "xp": 1,
+      "xp": 9,
       "level": 0
+    },
+    {
+      "id": "825863036836511775",
+      "usario": "Estela#2560",
+      "icon": "https://www.construtoracesconetto.com.br/wp-content/uploads/2020/03/blank-profile-picture-973460_640.png",
+      "twitch": "[link](https://twitch.tv)",
+      "tag": "usuario comum",
+      "desc": "Sabia que você pode alterar aqui usando #desc",
+      "ban": "false",
+      "xp": 13,
+      "level": 0
+    },
+    {
+      "id": "712682758895435797",
+      "usario": "Sutera-Kun#9579",
+      "icon": "https://www.construtoracesconetto.com.br/wp-content/uploads/2020/03/blank-profile-picture-973460_640.png",
+      "twitch": "[link](https://twitch.tv)",
+      "tag": "usuario comum",
+      "desc": "Sabia que você pode alterar aqui usando #desc",
+      "ban": "false",
+      "xp": 8,
+      "level": 0
+    },
+    {
+      "id": "444574345575137290",
+      "usario": "mainha#5616",
+      "icon": "https://www.construtoracesconetto.com.br/wp-content/uploads/2020/03/blank-profile-picture-973460_640.png",
+      "twitch": "[link](https://twitch.tv)",
+      "tag": "usuario comum",
+      "desc": "Sabia que você pode alterar aqui usando #desc",
+      "ban": "false",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "id": "705496822877257858",
+      "usario": "Taki.#2157",
+      "icon": "https://www.construtoracesconetto.com.br/wp-content/uploads/2020/03/blank-profile-picture-973460_640.png",
+      "twitch": "[link](https://twitch.tv)",
+      "tag": "usuario comum",
+      "desc": "Sabia que você pode alterar aqui usando #desc",
+      "ban": "false",
+      "xp": 5,
+      "level": 0
+    },
+    {
+      "id": "746318278082822195",
+      "usario": "ʜɪɴᴀᴛɪɴʜᴀ ツ#0766",
+      "icon": "https://www.construtoracesconetto.com.br/wp-content/uploads/2020/03/blank-profile-picture-973460_640.png",
+      "twitch": "[link](https://twitch.tv)",
+      "tag": "usuario comum",
+      "desc": "Sabia que você pode alterar aqui usando #desc",
+      "ban": "false",
+      "xp": 17,
+      "level": 0
+    },
+    {
+      "id": "319976573484662785",
+      "usario": "Karibo#1723",
+      "icon": "https://www.construtoracesconetto.com.br/wp-content/uploads/2020/03/blank-profile-picture-973460_640.png",
+      "twitch": "[link](https://twitch.tv)",
+      "tag": "usuario comum",
+      "desc": "Sabia que você pode alterar aqui usando #desc",
+      "ban": "false",
+      "xp": 160,
+      "level": 1
     }
   ]
 }
